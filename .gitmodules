@@ -1,0 +1,3 @@
+[submodule "steamapp-lumen"]
+	path = steamapp-lumen
+	url = git@github.com:geduardcatalindev/steamapp-lumen.git
